@@ -151,35 +151,36 @@ export default {
       onlineCount6: "13,254",
       onlineCountAll: "189,631",
       slides: [
+        { src: 'maqi-p1.jpg', alt: 'Image 4' },
         { src: 'photo_6174739985014573644_x.jpg', alt: 'Image 3' },
         { src: 'photo_6174739985014573642_x.jpg', alt: 'Image 1' },
         { src: 'photo_6174739985014573643_x.jpg', alt: 'Image 2' },      
       ],
       topUsersData : [
-      { userName: "ngwa01xx", amount: "150,000", timestamp: "31 ส.ค. 2568" },
-      { userName: "ngwb89xx", amount: "130,500", timestamp: "31 ส.ค. 2568" },
-      { userName: "ngwe11xx", amount: "95,200", timestamp: "31 ส.ค. 2568" },
-      { userName: "ngwd04xx", amount: "83,000", timestamp: "31 ส.ค. 2568" },
-      { userName: "ngwe87xx", amount: "82,000", timestamp: "31 ส.ค. 2568" },
-      { userName: "ngwe35xx", amount: "78,000", timestamp: "31 ส.ค. 2568" },
+      { userName: "maqia01xx", amount: "150,000", timestamp: "31 ส.ค. 2568" },
+      { userName: "maqib89xx", amount: "130,500", timestamp: "31 ส.ค. 2568" },
+      { userName: "maqie11xx", amount: "95,200", timestamp: "31 ส.ค. 2568" },
+      { userName: "maqid04xx", amount: "83,000", timestamp: "31 ส.ค. 2568" },
+      { userName: "maqie87xx", amount: "82,000", timestamp: "31 ส.ค. 2568" },
+      { userName: "maqie35xx", amount: "78,000", timestamp: "31 ส.ค. 2568" },
     ],
     reviews : [
-      { user: "ngwj23xx", text: "เว็บนี้ใช้งานง่าย ถอนเงินไวมาก", img: "photo-2568-06-02-13-24-49.jpg" },
-      { user: "ngws16xx", text: "แตกหนักจนแฟนงง ว่าไปเอาเงินมาจากไหน", img: "photo-2568-06-21-13-38-31.jpg" },
-      { user: "ngwe56xx", text: "ระบบดี ไม่มีสะดุดเลย", img: "photo-2568-06-02-13-11-47.jpg" },
-      { user: "ngwx88xx", text: "โปรโมชั่นคุ้มสุด ๆ เลยครับ", img: "503804955-122126012606831043-7044484449309087338-n.jpg" },
-      { user: "ngwo16xx", text: "เล่นง่าย ได้เงินจริง", img: "490506081-122124348278773654-1591748651281217225-n.jpg" },
-      { user: "ngwd41xx", text: "แตกจริง! ไม่ต้องลุ้นเลย เงินเข้าไวสุด ๆ 💸", img: "533961598_1465905681078900_8473607776528464666_n.jpg" },
-      { user: "ngwd41xx", text: "จากหลักร้อยเป็นหลักหมื่นในคืนเดียว ว้าว!", img: "464195162_2477566235772141_6809220135929060331_n.jpg" },
-      { user: "ngwb71xx", text: "รองรับ TrueWallet ด้วย สะดวกมาก", img: "504143319_2219977065123389_83092695142278008_n.jpg" },
-      { user: "ngwt94xx", text: "แนะนำเพื่อน ได้โบนัสด้วย", img: "492242625_668943662417215_4482917277835435921_n.jpg" },
-      { user: "ngwl68xx", text: "ดีตรงที่มีภาษาไทยครบถ้วน", img: "518366934_736143816025493_1299983234092703859_n.jpg" },
-      { user: "ngwt28xx", text: "ฝากปุ๊บเงินเข้าปั๊บ", img: "533084719_1116500603710911_5818853113959217185_n.jpg" },
-      { user: "ngwo71xx", text: "แทบจะถอนทุกวัน ดีจริงๆเว็บนี้!", img: "277169807-3163265690584017-8353788208641286173-n.jpg" },
-      { user: "ngwj88xx", text: "ชอบมีไลฟ์สดบอลให้ดูฟรี", img: "432694438-933306371801755-6605376483802637949-n.jpg" },
-      { user: "ngwq38xx", text: "ทีมซัพพอร์ตดูแลดีมาก", img: "444482004_7798764536813604_3664008989486408448_n.md.jpg" },
-      { user: "ngwz65xx", text: "อัตราต่อรองแฟร์สุด ๆ", img: "499992981-543532548818863-8863283426458467040-n.jpg" },
-      { user: "ngwf86xx", text: "ถอนวันละพันทุกวัน แทบไม่ต้องทำงาน", img: "503202164-2075152429640793-785701917046162087-n.jpg" },
+      { user: "maqij23xx", text: "เว็บนี้ใช้งานง่าย ถอนเงินไวมาก", img: "photo-2568-06-02-13-24-49.jpg" },
+      { user: "maqis16xx", text: "แตกหนักจนแฟนงง ว่าไปเอาเงินมาจากไหน", img: "photo-2568-06-21-13-38-31.jpg" },
+      { user: "maqie56xx", text: "ระบบดี ไม่มีสะดุดเลย", img: "photo-2568-06-02-13-11-47.jpg" },
+      { user: "maqix88xx", text: "โปรโมชั่นคุ้มสุด ๆ เลยครับ", img: "503804955-122126012606831043-7044484449309087338-n.jpg" },
+      { user: "maqio16xx", text: "เล่นง่าย ได้เงินจริง", img: "490506081-122124348278773654-1591748651281217225-n.jpg" },
+      { user: "maqid41xx", text: "แตกจริง! ไม่ต้องลุ้นเลย เงินเข้าไวสุด ๆ 💸", img: "533961598_1465905681078900_8473607776528464666_n.jpg" },
+      { user: "maqid41xx", text: "จากหลักร้อยเป็นหลักหมื่นในคืนเดียว ว้าว!", img: "464195162_2477566235772141_6809220135929060331_n.jpg" },
+      { user: "maqib71xx", text: "รองรับ TrueWallet ด้วย สะดวกมาก", img: "504143319_2219977065123389_83092695142278008_n.jpg" },
+      { user: "maqit94xx", text: "แนะนำเพื่อน ได้โบนัสด้วย", img: "492242625_668943662417215_4482917277835435921_n.jpg" },
+      { user: "maqil68xx", text: "ดีตรงที่มีภาษาไทยครบถ้วน", img: "518366934_736143816025493_1299983234092703859_n.jpg" },
+      { user: "maqit28xx", text: "ฝากปุ๊บเงินเข้าปั๊บ", img: "533084719_1116500603710911_5818853113959217185_n.jpg" },
+      { user: "maqio71xx", text: "แทบจะถอนทุกวัน ดีจริงๆเว็บนี้!", img: "277169807-3163265690584017-8353788208641286173-n.jpg" },
+      { user: "maqij88xx", text: "ชอบมีไลฟ์สดบอลให้ดูฟรี", img: "432694438-933306371801755-6605376483802637949-n.jpg" },
+      { user: "maqiq38xx", text: "ทีมซัพพอร์ตดูแลดีมาก", img: "444482004_7798764536813604_3664008989486408448_n.md.jpg" },
+      { user: "maqiz65xx", text: "อัตราต่อรองแฟร์สุด ๆ", img: "499992981-543532548818863-8863283426458467040-n.jpg" },
+      { user: "maqif86xx", text: "ถอนวันละพันทุกวัน แทบไม่ต้องทำงาน", img: "503202164-2075152429640793-785701917046162087-n.jpg" },
     ],
     rwindex:0
     };
@@ -336,7 +337,7 @@ export default {
       const randomBankIndex = Math.floor(Math.random() * bankLogos.length);
       const randomDigits = Math.floor(Math.random() * 100).toString().padStart(2, '0');
       const randomChar = String.fromCharCode(Math.floor(Math.random() * 26) + 97);
-      const user = `ngw${randomChar}${randomDigits}xx`;
+      const user = `maqi${randomChar}${randomDigits}xx`;
 
       const now = new Date();
 
