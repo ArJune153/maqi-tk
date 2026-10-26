@@ -6,7 +6,7 @@
       <br><b class="text2">✨การันตีผู้ใช้งานจริงนับล้านยูสเซอร์ ลูกค้าใหม่ เพิ่มอัตราการชนะ ทันที !!</b>
     </div>
     <div class="button-container">
-    <a href=":https://lin.ee/XUJksBi" class="custom-button1">
+    <a href="https://lin.ee/XUJksBi" class="custom-button1">
         <i class="fas fa-user-plus"></i>  <!-- ไอคอนสมัครสมาชิก -->
         สมัครสมาชิก
     </a>
